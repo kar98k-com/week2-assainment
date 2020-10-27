@@ -17,4 +17,6 @@ next we need to click on future skills button we get what is new new best techno
 we need to select some nice technologies, we will go to that technologies learning links
 
 ![2020-10-26 (9)](https://user-images.githubusercontent.com/72133695/97212701-c762f400-17e6-11eb-9830-2bf4ce5dcbba.png)
+# youtube link
+https://youtu.be/OEZa1lQBdgE
 
