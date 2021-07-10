@@ -1,4 +1,6 @@
-# week2-FutureSkills Bot 
+# week2-FutureSkills Bot
+# Team mates
+1)18pa1a0477 
 # REPL Link
 https://soulfulfailingtrialsoftware.karthik77.repl.co/
 # Main Moto Of Our Project
